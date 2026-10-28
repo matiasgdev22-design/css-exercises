@@ -1,1 +1,4 @@
-/* Add CSS Styling */
+.boton.primero { background-color: black; color: white; }
+.boton.segundo { background-color: rgb(255, 238, 0); color: black; }
+.boton { font-size: 28px; 
+font-family: Helvetica, "Times New Roman", sans-serif;}
