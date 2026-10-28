@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.impar {
+  background-color: #e48dbb; font-family: 'dejaVu Sans', sans-serif; font-size: 16px; color: #000000; padding: 10px; border-radius: 5px;
+}
+.impar.especial {
+ font-size: 24px;
+}
+#primero {
+  color: blue; font-size: 36px;
+}
+#segundo {
+  background-color: rgb(143, 240, 143); font-size: 24px; font-weight: bold;
+}
